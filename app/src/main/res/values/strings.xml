@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Spin</string>
+    <string name="app_name">Rainbow wheel</string>
+    <string name="reset">reset</string>
 </resources>
